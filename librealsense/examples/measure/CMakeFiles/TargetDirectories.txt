@@ -1,0 +1,2 @@
+/home/nvidia/projects/librealsense/examples/measure/CMakeFiles/rebuild_cache.dir
+/home/nvidia/projects/librealsense/examples/measure/CMakeFiles/edit_cache.dir
