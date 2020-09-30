@@ -1,0 +1,12 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+.idea
+dist
+build
+ros_logs
+tool_logs
+c1s.*
+senser_data

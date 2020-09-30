@@ -6,8 +6,7 @@ import time
 import math
 from collections import deque
 
-a = np.zeros((240,640))
-print(a.shape)
+
 
 
 
@@ -68,15 +67,4 @@ def show_stairs(list_locx,locate_list,run_time):
 #cv2.imshow("rgb",canny[320:480,:640])
 #key = cv2.waitKey(0)
 
-
-  
-
-
-#number_list,list_locx,locate_list =  compute_distance(canny)
-##print(number_list)
-##print(list_locx)
-#print(locate_list)
-##time0, time_med, time255 = pix_judment(number_list)
-##print(time255)
-##show_stairs(time255)
 
